@@ -22,6 +22,9 @@ Group Members: Matthew Lu, Bakhtiyor Alimov
 4. Edit the code to your desires and then push back to this fork.
 5. Submit a pull request by going to the fork page and pressing the "Pull requests" tab and pressing "New pull request"
 
+## Miscellany
+We went with our chosen license because it is free and academic related which this project is. We encourage users to experiment with out code and modify as they wish. We went with our chosen code of conduct because
+
 
 
 
