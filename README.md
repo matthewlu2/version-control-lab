@@ -14,6 +14,11 @@ Group Members: Matthew Lu, Bakhtiyor Alimov
 4. Double click the new folder in the file explorer. You should see the lab contents.
 5. Launch the `organizaitonName.ipynb` notebook.
 
+### Usage
+1. Launch the `organizaitonName.ipynb` notebook.
+2. Run the program.
+3. Follow the prompts 
+
 ## How to Contribute
 
 1. Go to our GitHub `https://github.com/matthewlu2/version-control-lab`
@@ -23,7 +28,7 @@ Group Members: Matthew Lu, Bakhtiyor Alimov
 5. Submit a pull request by going to the fork page and pressing the "Pull requests" tab and pressing "New pull request"
 
 ## Miscellany
-We went with our chosen license because it is free and academic related which this project is. We encourage users to experiment with out code and modify as they wish. We went with our chosen code of conduct because
+We went with our chosen license because it is free and academic related which this project is. We encourage users to experiment with out code and modify as they wish. We went with our chosen code of conduct because we want to be clear that our project is all enclusive and anyone is able to contribute no matter your sex, race, gender, ect.
 
 
 
